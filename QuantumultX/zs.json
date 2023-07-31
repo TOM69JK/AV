@@ -1,8 +1,14 @@
 {
-"name":"技术", 
+"name":"技术", h
 "description":"姿势", 
 "icons":
 [
+{"name":"07", "url":"https://raw.githubusercontent.com/tanghaoxu/AV/master/QuantumultX/AV/hlw7.PNG"},
+{"name":"06", "url":"https://raw.githubusercontent.com/tanghaoxu/AV/master/QuantumultX/AV/hlw6.PNG"},
+{"name":"05", "url":"https://raw.githubusercontent.com/tanghaoxu/AV/master/QuantumultX/AV/hlw5.PNG"},
+{"name":"04", "url":"https://raw.githubusercontent.com/tanghaoxu/AV/master/QuantumultX/AV/hlw4.PNG"},
+{"name":"03", "url":"https://raw.githubusercontent.com/tanghaoxu/AV/master/QuantumultX/AV/hlw3.PNG"},
+{"name":"02", "url":"https://raw.githubusercontent.com/tanghaoxu/AV/master/QuantumultX/AV/hwl2.PNG"},
 {"name":"0ㅤㅤ1", "url":"https://raw.githubusercontent.com/tom-proxy/AV/master/QuantumultX/AV/NBPLUS.png"},
 {"name":"ㅤㅤㅤ1", "url":"https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/zishi-cs/zs1.png"}, 
 {"name":"ㅤㅤㅤ2", "url":"https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/zishi-cs/zs2.png"},
