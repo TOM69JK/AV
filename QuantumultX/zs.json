@@ -3,6 +3,8 @@
 "description":"姿势", 
 "icons":
 [
+{"name":"9", "url":"https://raw.githubusercontent.com/tom-proxy/AV/master/QuantumultX/AV/touxiang.png"},
+{"name":"8", "url":"https://raw.githubusercontent.com/tom-proxy/AV/master/QuantumultX/AV/hlw8.png"},
 {"name":"7", "url":"https://raw.githubusercontent.com/tom-proxy/AV/master/QuantumultX/AV/hlw7.png"},
 {"name":"6", "url":"https://raw.githubusercontent.com/tom-proxy/AV/master/QuantumultX/AV/hlw6.png"},
 {"name":"5", "url":"https://raw.githubusercontent.com/tom-proxy/AV/master/QuantumultX/AV/hlw5.png"},
